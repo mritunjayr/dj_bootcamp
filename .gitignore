@@ -1,0 +1,7 @@
+Include
+Lib
+Scripts
+pyvenv.cfg
+.vscode
+**/migrations
+**/__pycache__
